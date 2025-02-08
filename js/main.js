@@ -3,19 +3,19 @@ const SolarCards = [
         id :1,
         title : "Off Grid",
         description : "WOC has contributed to students so that they can work in their dream company, we will continue to stick to our commitment to create an advanced generation...",
-        image : "../Picture/solar-panels-meadow4.png"
+        image : "./Picture/solar-panels-meadow4.png"
     },
     {
         id :2,
         title : "On Grid",
         description : "WOC has contributed to students so that they can work in their dream company, we will continue to stick to our commitment to create an advanced generation...",
-        image : "../Picture/solar-panels-meadow2.png"
+        image : "./Picture/solar-panels-meadow2.png"
     },
     {
         id :3,
         title : "Hybrid",
         description : "WOC has contributed to students so that they can work in their dream company, we will continue to stick to our commitment to create an advanced generation...",
-        image : "../Picture/solar-panels-meadow3.png"
+        image : "./Picture/solar-panels-meadow3.png"
     },
 ]
 const EnergyProducts = [
